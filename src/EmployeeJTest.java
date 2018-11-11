@@ -30,6 +30,7 @@ public void testSalary() {
 	Assert.assertEquals(4000, empObj1.getSalary(), 0);
 }
 
+//test
 @Test
 public void testtestBonus() {
 	Assert.assertEquals(100, empObj1.paybonus(empObj1.getSalary()));
